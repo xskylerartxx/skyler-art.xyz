@@ -1,0 +1,16 @@
+body{
+	font-family:Lato;
+	color: black;
+	background-color: light grey;
+}
+
+.logo{
+	width:20%;
+	height:10%;
+}
+
+
+.menubar{
+	display: block;
+	list-style: none;
+}
