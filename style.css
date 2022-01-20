@@ -10,7 +10,7 @@ body{
 }
 
 
-.menubar{
+ul li{
 	display: block;
 	list-style: none;
 }
