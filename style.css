@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
 body{
-	font-family:Lato;
+	font-family: 'Mochiy Pop P One';
 	color: black;
 	background-color: light rgb(88, 66, 66);
 }
