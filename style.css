@@ -9,6 +9,7 @@ body{
 .logo{
 	width:20%;
 	height:10%;
+	float: left;
 }
 
 .pictures{
