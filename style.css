@@ -16,6 +16,10 @@ body{
 	width: 50%;
 }
 
+.menubar{
+	float: right;
+}
+
 ul, ul li{
 	display: block;
 	list-style: none;
@@ -28,6 +32,3 @@ ul{
 	white-space: none;
 }
 
-.menubar{
-	float: right;
-}
