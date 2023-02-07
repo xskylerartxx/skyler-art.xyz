@@ -22,7 +22,7 @@ body {
 .logo {
   width: 50px;
   height: auto;
-  float: left;
+  float: left top;
 }
 
 .pictures {
