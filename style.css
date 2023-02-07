@@ -32,6 +32,7 @@ body {
 
 .menubar {
   float: right;
+  display: flex;
 }
 
 ul,
@@ -43,6 +44,6 @@ ul li {
 }
 
 ul {
-  display: inline;
+  display: inline-block;
   white-space: none;
 }
