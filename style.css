@@ -48,3 +48,19 @@ ul {
   display: inline-block;
   white-space: none;
 }
+
+.gallery {
+  display: flex;
+}
+
+.photo {
+  width: 20px;
+  height: auto;
+}
+.szanghaj {
+  flex: 1;
+}
+
+.fish {
+  flex: 2;
+}
