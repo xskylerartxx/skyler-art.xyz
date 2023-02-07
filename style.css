@@ -22,7 +22,8 @@ body {
 }
 
 .pictures {
-  width: 50%;
+  width: 50px;
+  height: auto;
 }
 
 .menubar {
