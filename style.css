@@ -33,6 +33,7 @@ body {
 .menubar {
   float: right;
   display: flex;
+  text-decoration: none;
 }
 
 ul,
